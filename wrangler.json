@@ -1,5 +1,5 @@
 {
-  "name": "proud-fire-e769",
+  "name": "vercel-proxy",
   "main": ".open-next/worker.js",
   "compatibility_date": "2024-11-01",
   "compatibility_flags": ["nodejs_compat"],
